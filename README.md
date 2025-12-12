@@ -5,7 +5,7 @@ i am rehan jaswal
 <br>
 NIT Jalandhar undergrad
 <br>
-MERN
+DSA
 <br>
 Python
 <br>
